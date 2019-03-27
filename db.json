@@ -1,6 +1,18 @@
-{
+[{
   "userId": 1,
   "id": 1,
-  "title": "delectus aut autem",
+  "title": "sneha",
   "completed": false
 }
+{
+  "userId": 2,
+  "id": 2,
+  "title": "ayushi",
+  "completed": false
+}
+{
+  "userId": 3,
+  "id": 3,
+  "title": "pia",
+  "completed": true
+}]
